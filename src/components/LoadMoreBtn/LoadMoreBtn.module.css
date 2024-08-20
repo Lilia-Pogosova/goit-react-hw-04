@@ -1,0 +1,14 @@
+.button {
+    background-color: #4e75ff;
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 8px;
+    padding: 10px;
+    border: transparent;
+    margin-bottom: 120px;
+    
+}
+
+.button:hover {
+    transform: scale(1.1);
+}
